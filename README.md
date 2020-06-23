@@ -20,4 +20,3 @@ Rest;
 $ git clone https://github.com/Leandro-Faustino/Desafio-React-03.git<br />
 $ yarn<br />
 $ yarn test<br />
-Você também precisa executar o back-end, localizado em:
