@@ -20,3 +20,5 @@ Rest;
 $ git clone https://github.com/Leandro-Faustino/Desafio-React-03.git<br />
 $ yarn<br />
 $ yarn test<br />
+$ Rode o backend que se encontra em: https://github.com/Leandro-Faustino/gostack-template-conceitos-nodejs;
+rode no terminal : $ yarn dev
